@@ -29,5 +29,11 @@
 // const st = new String('Aade Sharad Sahebrao')
 // console.log(st.split(' '));
 
-const st = new String('om-namha-shivay')
-console.log(st.split('-'));
+// const st = new String('om-namha-shivay')
+// console.log(st.split('-'));
+// let name = new String('   sharad    ')
+// console.log(name.trimStart());
+// console.log(name.trimEnd());
+// console.log(name.blink());
+
+
